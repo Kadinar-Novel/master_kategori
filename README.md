@@ -1,3 +1,9 @@
+Cara menggunakan:
+ - Clone 
+ - Melalui terminal/comand prompt jalankan composer install
+ - Setelah selesai update .env sesuai dengan nama database yg dibuat
+ - Jalankan php artisan migrate di terminal/command prompt nya
+ - Test menggunakan postman
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
